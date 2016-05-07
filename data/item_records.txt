@@ -1,0 +1,11 @@
+# player records
+# player id	first name	last name	sport	type year	years active	team	first pro year dob	pob	alive
+#
+5	john	denver	badminton	photo	1984	1968-1992	wellington	1971	11/1/1972	nelson	true
+7	susan	devoy	boxing	ball	1999	1990-2015	timaru, nelson, christchurch	1983	20/05/160	temuka	true
+2	susan	devoy	boxing	ball	1999	1990-2015	timaru, nelson, christchurch	1983	20/05/160	temuka	true
+4	john	denver	badminton	photo	1984	1968-1992	wellington	1971	11/1/1972	nelson	true
+1	nancy	smith	jousting	t-shirt	1969	1957-1974	wellington	1968	22/10/1970	masterton	true
+6	dave	davidson	badminton	photo	1929	1929-1942	wellington	1931	21/01/1925	masterton	false
+8	nancy	smith	jousting	t-shirt	1969	1957-1974	wellington	1968	22/10/1970	masterton	true
+3	susan	devoy	jousting	t-shirt	2014	1980-2015	timaru	1983	20/05/1960	temuka	true
